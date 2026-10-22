@@ -1,0 +1,14 @@
+{
+ "salt": "1dc4fb41d359bab0",
+ "teacher": {
+  "login": "teacher",
+  "hash": "edf2b0b744328bc101f74048fc31b7066225d9e2d4c3a0e497f5b652dfa148b0"
+ },
+ "students": [
+  {
+   "login": "student1",
+   "name": "Тестовый Ученик",
+   "hash": "cf624712b3b4b2b92a163f8866e7096f3d1e7dd50d4a8791d82ee5bdaeaee3f8"
+  }
+ ]
+}
