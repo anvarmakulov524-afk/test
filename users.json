@@ -9,6 +9,11 @@
    "login": "student1",
    "name": "Тестовый Ученик",
    "hash": "cf624712b3b4b2b92a163f8866e7096f3d1e7dd50d4a8791d82ee5bdaeaee3f8"
+  },
+  {
+   "login": "qwert",
+   "name": "Hhhhhhhh",
+   "hash": "781e98f879d067c48f6cca9c986713697f4b2335620d54a4248bef71dd6f544c"
   }
  ]
 }
